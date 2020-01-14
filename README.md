@@ -1,8 +1,7 @@
 # Linux and Windows System Administrator
 ## About Me
 
-Dedicated helpdesk professional. Skilled problem-solver able to communicate with users at all levels of technical proficiency. Troubleshoot, resolve and document user help requests for desktop, laptop, mobile, network and peripheral problems.
-5271 Whetstone Road, Richmond Virginia, 23238
+Dedicated system administration professional. Skilled problem-solver able to communicate with users at all levels of technical proficiency. Troubleshoot, resolve and document user help requests for desktop, laptop, mobile, network and peripheral problems.
 (804) 712-8812  (804) 362 7083 kehindeakinsanya70@gmail.com
 
 # SKILLS
@@ -24,6 +23,9 @@ Fast learner and can perform under pressure
 Operating Systems
 Windows,Linux, Mac OS ,iOS, and Android
 
-## Projects
-1. SYSINFO
-2. SYSOPS
+# Projects
+## This are my current projects
+### Linux Administration
+
+* SYSINFO
+* SYSOPS
