@@ -1,4 +1,4 @@
-# ServerGuy
+# Linux and Windows System Administrator
 ## About Me
 
 Dedicated helpdesk professional. Skilled problem-solver able to communicate with users at all levels of technical proficiency. Troubleshoot, resolve and document user help requests for desktop, laptop, mobile, network and peripheral problems.
