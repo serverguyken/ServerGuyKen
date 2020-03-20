@@ -2,7 +2,7 @@
 ## About Me
 
 Dedicated system administration professiona and Full Stack Web Developer, Skilled problem-solver able to communicate with users at all levels of technical proficiency. Troubleshoot, resolve and document user help requests for desktop, laptop, mobile, network and peripheral problems.
-(804) 712-8812  (804) 362 7083 kehindeakinsanya70@gmail.com
+(804) 712-8812 kehindeakinsanya70@gmail.com
 
 # SKILLS
 Junior Linux System Administrator 
