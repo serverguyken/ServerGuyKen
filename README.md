@@ -17,6 +17,7 @@ Azure
 Nodejs
 Bootstrap
 Netlify
+Markup
 Phone & Online Support
 Operating System Upgrades & Optimization
 System Upgrades & Optimization
@@ -32,9 +33,9 @@ Operating Systems
 Windows,Linux, Mac OS ,iOS, and Android
 
 # Projects
-## This are my current projects
 ### Linux Administration
-#### View my Github page for Projects
+### Web Development
+#### View my Github repositories for Projects
 
 * SYSINFO
 * SYSOPS
