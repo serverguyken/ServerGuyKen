@@ -1,4 +1,4 @@
-# Linux and Windows System Administrator
+# Full Stack Web Developer
 ## About Me
 
 Full Stack Web Developer, Skilled problem-solver able to communicate with users at all levels of technical proficiency. Experienced in Frontend and backend development, Troubleshoot, resolve and document user help requests for desktop, laptop, mobile, network and peripheral problems.
