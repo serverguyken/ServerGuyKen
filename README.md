@@ -5,7 +5,7 @@ Full Stack Web Developer, Skilled problem-solver able to communicate with users 
 (804) 712-8812 kehindeakinsanya70@gmail.com
 
 # SKILLS
-Junior Linux System Administrator 
+Linux
 Technical Troubleshooting End User Support
 Active Directory
 Ticketing
