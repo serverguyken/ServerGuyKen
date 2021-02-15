@@ -1,7 +1,7 @@
 # Linux and Windows System Administrator
 ## About Me
 
-Dedicated system administration professional and Full Stack Web Developer, Skilled problem-solver able to communicate with users at all levels of technical proficiency. Experienced in Frontend and backend development, Troubleshoot, resolve and document user help requests for desktop, laptop, mobile, network and peripheral problems.
+Full Stack Web Developer, Skilled problem-solver able to communicate with users at all levels of technical proficiency. Experienced in Frontend and backend development, Troubleshoot, resolve and document user help requests for desktop, laptop, mobile, network and peripheral problems.
 (804) 712-8812 kehindeakinsanya70@gmail.com
 
 # SKILLS
@@ -15,7 +15,10 @@ JavaScript
 Git
 Azure
 Nodejs
+VueJs
+ReactJs
 Bootstrap
+TailwindCSS
 Netlify
 Markup
 Phone & Online Support
@@ -33,10 +36,7 @@ Operating Systems
 Windows,Linux, Mac OS ,iOS, and Android
 
 # Projects
-### Linux Administration
-### Web Development
-#### View my Github repositories for Projects
+### <a href-"https://mosregal.com">Mosregal</a>
+### <a href-"https://logsnap.app">LogSnap</a>
+#### Check out my Github repositories to see what i'm working on.
 
-* SYSINFO
-* SYSOPS
-* Website Development
