@@ -37,6 +37,7 @@ Windows,Linux, Mac OS ,iOS, and Android
 
 # Projects
 ### <a href-"https://mosregal.com">Mosregal</a>
+https://mosregal.com - Mosregal!
 ### <a href-"https://logsnap.app">LogSnap</a>
 #### Check out my Github repositories to see what i'm working on.
 
