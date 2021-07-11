@@ -2,7 +2,7 @@
 ## About Me
 
 Full Stack Web Developer, Skilled problem-solver able to communicate with users at all levels of technical proficiency. Experienced in Frontend and backend development, Troubleshoot, resolve and document user help requests for desktop, laptop, mobile, network and peripheral problems.
-(804) 712-8812 kehindeakinsanya70@gmail.com
+(804) 381-7888 kehindeakinsanya70@gmail.com
 
 # SKILLS
 Linux
@@ -12,15 +12,23 @@ Ticketing
 HTML
 CSS
 JavaScript
+Python
+C++
+C#
 Git
 Azure
-Nodejs
-VueJs
-ReactJs
+NodejS
+VueJS
+Django
+ReactJS
+SQL
 Bootstrap
 TailwindCSS
 Netlify
 Markup
+User Authentication
+Firebase
+Database
 Phone & Online Support
 Operating System Upgrades & Optimization
 System Upgrades & Optimization
