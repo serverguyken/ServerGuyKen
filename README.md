@@ -47,6 +47,7 @@ Windows,Linux, Mac OS ,iOS, and Android
 AZ-200
 
 ## 📮 How to reach me
-**Gmail: kehindeakinsanya70@gmail.com**<br>
-**GitHub: https://github.com/serverguyken**<br>
-**Linkedin: https://www.linkedin.com/in/kehinde-serverguyken**
+<span<strong>Gmail</strong>:<span><a href="serverguyken@gmail.com">serverguyken@gmail.com</a></span></span>
+Gmail:<br>
+<span<strong>GitHub</strong>:<span><a href="https://github.com/serverguyken">https://github.com/serverguyken</a></span></span>
+<span<strong>Linkedin</strong>:<span><a href="https://www.linkedin.com/in/kehinde-serverguyken">https://www.linkedin.com/in/kehinde-serverguyken</a></span></span>
