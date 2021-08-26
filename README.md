@@ -1,9 +1,10 @@
 ### Hi there 👋🏾
-## About Me
 
+
+## About Me
 Full Stack Web Developer, Skilled problem-solver able to communicate with users at all levels of technical proficiency. Experienced in Frontend and backend development.
 
-# SKILLS
+##  SKILLS
 Linux
 Technical Troubleshooting End User Support
 Active Directory
