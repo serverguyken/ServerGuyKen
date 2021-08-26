@@ -43,9 +43,6 @@ Fast learner and can perform under pressure
 Operating Systems
 Windows,Linux, Mac OS ,iOS, and Android
 
-# Projects
-### <a href="https://mosregal.com">Mosregal</a>
-### <a href="https://logsnap.app">LogSnap</a>
-### <a href="https://savvewise.com">SavveWise</a>
-#### Check out my Github repositories to see what i'm working on.
+# 📖 I'm currently learning 
 
+AZ-200
