@@ -43,9 +43,6 @@ Fast learner and can perform under pressure
 Operating Systems
 Windows,Linux, Mac OS ,iOS, and Android
 
-## 📖 I'm currently learning 
-AZ-200
-
 ## 📮 How to reach me
 <span><strong>Gmail</strong>: <span><a href="mailto:serverguyken@gmail.com?subject=Let's%20work">serverguyken@gmail.com</a></span></span>
 
