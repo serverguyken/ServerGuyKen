@@ -30,6 +30,7 @@ Python
 C++
 C#
 Git
+AWS
 Azure
 NodejS
 VueJS
